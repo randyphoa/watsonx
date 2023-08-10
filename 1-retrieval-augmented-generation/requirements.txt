@@ -1,0 +1,7 @@
+faiss-cpu
+ipywidgets
+langchain
+sentence_transformers
+unstructured
+streamlit
+pypdf
