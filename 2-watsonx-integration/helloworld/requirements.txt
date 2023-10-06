@@ -1,0 +1,9 @@
+fastapi
+pydantic
+uvicorn
+langchain
+ibm-watson
+sentence_transformers
+faiss-cpu
+pandas
+css-inline
